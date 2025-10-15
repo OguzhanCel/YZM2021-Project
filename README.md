@@ -2,11 +2,11 @@
 
 Group Members:
   
-  -Yunus Emre Yılmaz
+  -**PROJECT MANAGER and CORE SYSTEMS ENGINEER :** Oğuzhan Çelik
   
-  -Oğuzhan Çelik
+  -**GAMEPLAY ENGINEER:** Yunus Emre Yılmaz
   
-  -Tuğana Öykü Yıldız
+  -**MENU and UI ENGINEER:** Tuğana Öykü Yıldız
 
 
 # 2D Sword & Shield Fighting Game
