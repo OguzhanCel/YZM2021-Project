@@ -13,6 +13,7 @@ Group Members:
 
 A 2D fighting game developed using the Godot Engine, focusing on sword and shield combat.
 Local 2 player pvp matches.
+
 The gameplay emphasizes distance control, timing, and dash based movement.
 
 ---
