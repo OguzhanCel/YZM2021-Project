@@ -3,32 +3,48 @@
 
 ---
 
-## TABLE OF CONTENTS  
-1. [Introduction](#1-introduction)  
-2. [Overall Description](#2-overall-description)  
-3. [Functional Requirements](#3-functional-requirements)  
-   - [3.1 User Stories](#31-user-stories)  
-   - [3.2 Use Cases](#32-use-cases-optional-but-recommended)  
-   - [3.3 Functional Requirements List](#33-functional-requirements-list)  
-4. [Non-Functional Requirements](#4-non-functional-requirements)  
-   - [4.1 Performance Requirements](#41-performance-requirements)  
-   - [4.2 Security Requirements](#42-security-requirements)  
-   - [4.3 Usability Requirements](#43-usability-requirements)  
-   - [4.4 Reliability and Availability](#44-reliability-and-availability)  
-   - [4.5 Maintainability Requirements](#45-maintainability-requirements)  
-   - [4.6 Compatibility Requirements](#46-compatibility-requirements)  
-5. [System Models (Diagrams)](#5-system-models-diagrams)
-   
----
-
 ## 1. INTRODUCTION  
-Provide context and scope for your requirements document.
 
-1. **Purpose:** What is the purpose of this SRS document?  
-2. **Document Conventions:** Any special notations or terminology used  
-3. **Intended Audience:** Who should read this document? (developers, testers, users, project managers)  
-4. **Project Scope:** Brief summary of what the system will and won't do  
-5. **References:** Any documents, standards, or resources referenced (link to your D1 - SDP)  
+### 1.1 Purpose
+The purpose of this document is to clearly define the **software requirements** for our project.  
+This document serves as a **structured guide** for the development process, helping to ensure that the project meets its intended **goals** and **functionality**.  
+It is intended for the **course instructor** who will review the assignment, as well as for the **developers** as a reference during implementation and testing.
+
+### 1.2 Document Conventions
+**Bold text indicates important features and terms.**  
+Functional requirements are numbered as **FR-x**, and non-functional requirements as **NFR-x**.  
+ 
+*Terminology specific to the game:*  
+- **Dash:** A quick horizontal movement for repositioning and spacing.  
+- **Attack:** Player strikes in upward, horizontal, or downward directions.  
+- **Defend:** Blocking attacks from different directions.  
+- **Tutorial:** A short introductory guide that explains core mechanics.   
+- **HP (Health Points):** A numerical value representing player vitality.
+  
+### 1.3 Intended Audience
+- **Course Instructor:** To review the assignment and check whether the project meets the defined requirements.  
+- **Developers:** To use this document as a reference during the design, implementation, and testing, and to understand system features and implementation requirements.
+
+### 1.4 Project Scope
+**In Scope:**  
+- 1v1 local multiplayer gameplay with sword and shield combat mechanics.  
+- Player actions: movement (right or left), dash (right or left), attacking (upward, horizontal, downward), and defending (upward, horizontal, downward).  
+- Game menus: Main Menu, Options, Tutorial, Credits, and Pause Menu.  
+- Game results: match end screen with options to rematch or return to the main menu.  
+- Audio and resolution settings adjustable in the Options menu.  
+
+**Out of Scope:**  
+- AI-controlled opponents.  
+- Multiple playable characters.  
+- Online multiplayer functionality.
+  
+ ### 1.5 References
+- **Team2_D1_SDP.pdf** – Software Development Plan for the 2D Sword & Shield Fighting Game.
+[Team2_D1_SDP.pdf](https://github.com/OguzhanCel/YZM2021-Project/blob/main/Team2_D1_SDP.pdf) 
+- **README.md** – Project overview and feature summary.-
+[README.md](https://github.com/OguzhanCel/YZM2021-Project/blob/main/README.md)
+- **Godot Engine Documentation** – Official documentation for the Godot 4.x engine.  
+[https://docs.godotengine.org](https://docs.godotengine.org)  
 
 ---
 
