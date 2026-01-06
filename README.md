@@ -68,7 +68,3 @@ Currently in **prototype** phase.
 
 ---
 
-## Screenshots / Previews
-
-*(To be added later)*
-
