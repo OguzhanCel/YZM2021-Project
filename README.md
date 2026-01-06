@@ -1,4 +1,5 @@
 # Principles-of-Software-Engineering-Project
+https://drive.google.com/drive/folders/1LEe1kSWBG5ytLuJvOYiHqP6n0-D8Dux4
 
 Group Members:
   
@@ -9,7 +10,7 @@ Group Members:
   -**MENU and UI ENGINEER:** Tuğana Öykü Yıldız
 
 
-# 2D Sword & Shield Fighting Game
+# Terminus
 
 A 2D fighting game developed using the Godot Engine, focusing on sword and shield combat.
 Local 2 player pvp matches.
