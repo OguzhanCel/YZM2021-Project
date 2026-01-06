@@ -47,16 +47,7 @@ The gameplay emphasizes distance control, timing, and dash based movement.
 
 ## Development Status
 
-Currently in **prototype** phase.
-
----
-
-## Next Steps
-
-- Add character selection and versus screen  
-- Implement hit and block animations  
-- Create UI for health and timer  
-- Add sound and visual effects  
+Currently in **release** phase.
 
 ---
 
